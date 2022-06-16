@@ -1,7 +1,4 @@
-#setwd("C:/Users/samue/OneDrive/Desktop/UAlbany/Spring 2022/Time Series Forecasting/Assignments/Assignment 3")
-
 library(quantmod)
-
 library(car)
 library(tseries)
 library(forecast)
