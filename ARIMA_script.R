@@ -22,7 +22,7 @@ summary(diff.adf)
 
 plot.ts(diff(log(PMETAINDEXM)))
 
-#######################Model##################
+#######################Series transformation##################
 Metal1<-PMETAINDEXM
 Metal2<-log(PMETAINDEXM)
 Metal <- diff(log(PMETAINDEXM))
