@@ -1,6 +1,6 @@
 # **Metal-Price-Index-Forecast**
 
-# Project 1: Forecasting the Global Price of Metal Index using ARIMA Model
+## Project 1: Forecasting the Global Price of Metal Index using ARIMA Model
 1. Streamed data from FRED for the global index of metal prices (ticker: PMETAINDEXM)
 2. Run an Augmented Dicky Fuller test (ADF) to test for Unit root
     - Here I used the Ender's approach to test for unit root.
