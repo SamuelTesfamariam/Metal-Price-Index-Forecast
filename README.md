@@ -8,4 +8,22 @@
 3. Estimated an ARIMA model (ARIMA(1, 1, 1))
 4. Run a test prediction on a hold-out sample (test data) for a forecast vs. actuals comparison
 5. Finally made a six month forecast for the series.
+
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/Plot%20of%20the%20series.png)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/Series%20transformation.png)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/ADF%20Test%20results.PNG)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/ACF_PACF%20plot.png)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/Models%20comparison.PNG)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/estimated%20model%20fit%20and%20residuals.png)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/forecast%20vs%20actuals.png)
+
+![](https://github.com/SamuelTesfamariam/Metal-Price-Index-Forecast/blob/main/Images/6%20month%20forecast.png)
+
   
